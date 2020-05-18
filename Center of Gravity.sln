@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Center of Gravity", "Center of Gravity\Center of Gravity.csproj", "{DBEAF83B-3B17-493D-B5D3-EEAC7CB393FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEAF83B-3B17-493D-B5D3-EEAC7CB393FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEAF83B-3B17-493D-B5D3-EEAC7CB393FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEAF83B-3B17-493D-B5D3-EEAC7CB393FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEAF83B-3B17-493D-B5D3-EEAC7CB393FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
